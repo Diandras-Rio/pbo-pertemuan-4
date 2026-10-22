@@ -15,7 +15,7 @@
 
 - `constructor.php`, `destructor.php`, `overloading_property.php`, `overloading_method.php`: Percobaan 1 sampai 4
 - `latihan1` sampai `latihan5`: Latihan Mandiri
-- `Laporan_Praktikum_PBO_Pertemuan_04.docx`: laporan praktikum
+- `Laporan_P4_PBO_2530521062_DiandrasRioTriasmoro_3TIC.pdf`: laporan praktikum
 
 ## Cara Menjalankan
 
